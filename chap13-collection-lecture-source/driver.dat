@@ -1,0 +1,6 @@
+#jdbc driver
+#Tue Feb 11 09:53:20 KST 2025
+password=tiger
+driver=oracle.jdbc.driver.OracleDriver
+user=scott
+url=jdbc\:oracle\:thin\:@localhost\:1521\:XE
